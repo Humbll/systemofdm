@@ -1,4 +1,11 @@
-
+/*
+* lab_ofdm_process.c
+*
+*  Created on: 6 Sep. 2016
+*
+*  modified NOV 21, 2016
+*      Author: mckelvey
+*/
 #include <stdlib.h>
 #include <math.h>
 #include <lab_ofdm_process.h>
